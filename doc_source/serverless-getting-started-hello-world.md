@@ -99,6 +99,9 @@ There are three especially important files:
 
 First, change into the project directory, where the `template.yaml` file for the sample application is located\. \(By default, this directory is `sam-app`\.\) Then run this command:
 
+**Note:** 
+You need to install Python that is compatible with the sam application. 
+
 ```
 sam build
 ```
